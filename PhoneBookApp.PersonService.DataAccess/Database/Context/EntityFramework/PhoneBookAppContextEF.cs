@@ -13,7 +13,7 @@ namespace PhoneBookApp.PersonService.DataAccess.Database.Context.EntityFramework
         public DbSet<Contact> Contacts { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Server=localhost;Port=5432;Database=PhoneBookAppDBTestDBB;Integrated Security=true; User Id=postgres;Password=7973153.mK;");
+            optionsBuilder.UseNpgsql("Server=localhost;Port=5432;Database=PhoneBookAppDBTestD;Integrated Security=true; User Id=postgres;Password=7973153.mK;");
         }
         Datas dummyData = new Datas();
         protected override void OnModelCreating(ModelBuilder modelBuilder)
