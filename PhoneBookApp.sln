@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PersonService", "PersonServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookApp.PersonService.DataAccess", "PhoneBookApp.PersonService.DataAccess\PhoneBookApp.PersonService.DataAccess.csproj", "{913C8A8A-652E-4E36-A6A1-5A495BAD0589}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookApp.PersonService.Business", "PhoneBookApp.PersonService.Business\PhoneBookApp.PersonService.Business.csproj", "{552193A6-BB68-4756-BB65-C7ECD0CC9F98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{913C8A8A-652E-4E36-A6A1-5A495BAD0589}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{913C8A8A-652E-4E36-A6A1-5A495BAD0589}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{913C8A8A-652E-4E36-A6A1-5A495BAD0589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{552193A6-BB68-4756-BB65-C7ECD0CC9F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552193A6-BB68-4756-BB65-C7ECD0CC9F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552193A6-BB68-4756-BB65-C7ECD0CC9F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552193A6-BB68-4756-BB65-C7ECD0CC9F98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +32,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{AA339887-DD57-4353-A036-802F8001740B} = {7B584A58-86E0-40C5-89BA-20CC820E1850}
 		{913C8A8A-652E-4E36-A6A1-5A495BAD0589} = {AA339887-DD57-4353-A036-802F8001740B}
+		{552193A6-BB68-4756-BB65-C7ECD0CC9F98} = {AA339887-DD57-4353-A036-802F8001740B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A470BB83-AD26-45DD-9C1F-50F90F6A9145}
