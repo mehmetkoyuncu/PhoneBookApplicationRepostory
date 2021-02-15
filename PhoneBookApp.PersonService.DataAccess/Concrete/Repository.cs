@@ -37,7 +37,7 @@ namespace PhoneBookApp.PersonService.DataAccess.Concrete
 
         public bool Remove(TEntity entity)
         {
-            try { _dbSet.Remove(entity); return true; }
+            try { _dbSet.Update(entity);  return true; }
             catch { return false; }
         }
 

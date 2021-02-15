@@ -32,13 +32,13 @@ namespace PhoneBookApp.PersonService.Business.Concrete
 
         public List<PersonDTO> GetListPersonDTO()
         {
-            List<PersonDTO> personList = _unitOfWork.PersonRepository.GetAll().Select(x => new PersonDTO
+            List<PersonDTO> personList = _unitOfWork.PersonRepository.Get(x=>x.IsDeleted==false).Select(x => new PersonDTO
             {
                 CompanyName = x.CompanyName,
                 Name = x.Name,
                 Id = x.Id,
                 Surname = x.Surname,
-                Contacts = x.Contacts.Where(y => y.PersonId == x.Id).Select(y => new ContactDTO
+                Contacts = x.Contacts.Where(y => y.PersonId == x.Id&&x.IsDeleted==false).Select(y => new ContactDTO
                 {
                     Address = y.Address,
                     Id = y.Id,
@@ -51,7 +51,7 @@ namespace PhoneBookApp.PersonService.Business.Concrete
 
         public PersonDTO GetPersonDTO(Guid id)
         {
-            PersonDTO person = _unitOfWork.PersonRepository.Get(x => x.Id == id).Select(x => new PersonDTO
+            PersonDTO person = _unitOfWork.PersonRepository.Get(x => x.Id == id&&x.IsDeleted==false).Select(x => new PersonDTO
             {
                 CompanyName = x.CompanyName,
                 Name = x.Name,
@@ -76,6 +76,7 @@ namespace PhoneBookApp.PersonService.Business.Concrete
         public bool RemovePerson(Guid id)
         {
             Person person = GetPerson(id);
+            person.IsDeleted = true;
             bool condition = _unitOfWork.PersonRepository.Remove(person);
             _unitOfWork.Save();
             return condition;
