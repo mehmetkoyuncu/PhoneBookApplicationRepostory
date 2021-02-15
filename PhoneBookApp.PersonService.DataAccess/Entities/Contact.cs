@@ -1,10 +1,11 @@
-﻿using System;
+﻿using PhoneBookApp.PersonService.DataAccess.Entities.Base;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace PhoneBookApp.PersonService.DataAccess.Entities
 {
-    public class Contact
+    public class Contact:BaseEntity,IEntity
     {
         public int Id { get; set; }
         public string PhoneNum { get; set; }
