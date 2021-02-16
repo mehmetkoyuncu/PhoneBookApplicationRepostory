@@ -29,6 +29,15 @@ namespace PhoneBookApp.PersonService.WebAPI
         {
             services.AddControllers();
             services.AddScoped<IPersonServices, PersonServices>();
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .SetIsOriginAllowed((host) => true)
+                    .AllowCredentials());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -38,7 +47,7 @@ namespace PhoneBookApp.PersonService.WebAPI
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseCors("CorsPolicy");
             app.UseHttpsRedirection();
 
             app.UseRouting();

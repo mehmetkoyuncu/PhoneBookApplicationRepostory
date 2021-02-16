@@ -43,3 +43,4 @@ C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.PersonService.WebAPI\o
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.PersonService.WebAPI\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.WebAPI.dll
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.PersonService.WebAPI\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.WebAPI.pdb
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.PersonService.WebAPI\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.WebAPI.genruntimeconfig.cache
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.PersonService.WebAPI\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll

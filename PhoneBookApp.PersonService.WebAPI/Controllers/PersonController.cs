@@ -26,7 +26,7 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
         public IActionResult GetAllPerson()
         {
 
-            return Json(_personService.GetListPersonDTO());
+            return Ok(_personService.GetListPersonDTO());
         }
         public IActionResult GetPerson()
         {
@@ -36,9 +36,9 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
         {
             PersonDTO personDTO1 = new PersonDTO();
             personDTO1.Id = Guid.NewGuid();
-            personDTO1.CompanyName = "Company 1 ";
-            personDTO1.Name = "Ex Data";
-            personDTO1.Surname = "Ex Data";
+            personDTO1.CompanyName = "Company 4 ";
+            personDTO1.Name = "Kara";
+            personDTO1.Surname = "Uğur ";
             return Json(_personService.AddPerson(personDTO1));
         }
         public IActionResult RemovePerson()

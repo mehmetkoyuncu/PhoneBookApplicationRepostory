@@ -25,6 +25,7 @@
       "PhoneBookApp.PersonService.WebAPI/1.0.0": {
         "dependencies": {
           "PhoneBookApp.PersonService.Business": "1.0.0",
+          "System.Linq.Dynamic.Core": "1.2.8",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -581,6 +582,17 @@
         },
         "compile": {
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
+        }
+      },
+      "System.Linq.Dynamic.Core/1.2.8": {
+        "runtime": {
+          "lib/netcoreapp2.1/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.2.8.0",
+            "fileVersion": "1.2.8.0"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp2.1/System.Linq.Dynamic.Core.dll": {}
         }
       },
       "System.Runtime.CompilerServices.Unsafe/4.6.0": {},
@@ -2383,6 +2395,13 @@
       "sha512": "sha512-j81Lovt90PDAq8kLpaJfJKV/rWdWuEk6jfV+MBkee33vzYLEUsy4gXK8laa9V2nZlLM9VM9yA/OOQxxPEJKAMw==",
       "path": "system.diagnostics.diagnosticsource/4.7.1",
       "hashPath": "system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    },
+    "System.Linq.Dynamic.Core/1.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pt/p0YRKysUIwf/ihyVOftcITaQYBXQt/BxUfezsR/d7iXRDhYBwg+iYnL4zxX5i1qXVG0C/dwnmroWblmdH5A==",
+      "path": "system.linq.dynamic.core/1.2.8",
+      "hashPath": "system.linq.dynamic.core.1.2.8.nupkg.sha512"
     },
     "System.Runtime.CompilerServices.Unsafe/4.6.0": {
       "type": "package",

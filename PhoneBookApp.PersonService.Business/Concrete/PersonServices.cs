@@ -57,13 +57,6 @@ namespace PhoneBookApp.PersonService.Business.Concrete
                 Name = x.Name,
                 Id = x.Id,
                 Surname = x.Surname,
-                Contacts = x.Contacts.Where(y => y.PersonId == x.Id).Select(y => new ContactDTO
-                {
-                    Address = y.Address,
-                    Id = y.Id,
-                    Mail = y.Mail,
-                    PhoneNum = y.PhoneNum
-                }).ToList()
             }).FirstOrDefault();
             return person;
         }

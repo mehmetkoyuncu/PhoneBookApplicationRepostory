@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IhQXT5O8Q973dcSex2j3I4y9tB2otDcVO+9tYwl8NRzXE9Nh2JOW4mqEGa0lsckscUjKPhS1o1yOxDQ2YHW0iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.UI.MVC\\PhoneBookApp.UI.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkoyu\\.nuget\\packages\\system.linq.dynamic.core\\1.2.8\\system.linq.dynamic.core.1.2.8.nupkg.sha512"
+  ],
+  "logs": []
+}
