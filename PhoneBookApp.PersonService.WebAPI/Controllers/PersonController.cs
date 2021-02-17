@@ -18,10 +18,7 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
         {
             _personService = personservice;
         }
-        public IActionResult Index()
-        {
-            return View();
-        }
+    
         [HttpGet]
         public IActionResult GetAllPerson()
         {
@@ -37,13 +34,13 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
             bool control = _personService.AddPerson(personDTO);
 
 
-            return Json(control);
+            return Ok(control);
         }
         [HttpPost]
         public IActionResult RemovePerson(PersonDTO person)
         {
             Guid uuid = person.Id;
-            return Json(_personService.RemovePerson(uuid));
+            return Ok(_personService.RemovePerson(uuid));
         }
 
     }

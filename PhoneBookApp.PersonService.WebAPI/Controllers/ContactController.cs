@@ -17,16 +17,13 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
         {
             _contactService = contactService;
         }
-        public IActionResult Index()
-        {
-            return View();
-        }
+      
         [HttpPost]
-        public List<ContactDTO> GetContactForUser(ContactDTO contactDTO)
+        public IActionResult GetContactForUser(ContactDTO contactDTO)
         {
             Guid id = contactDTO.UserId; 
             List<ContactDTO> contactList = _contactService.GetListContact(id);
-            return _contactService.GetListContact(id);
+            return Ok(_contactService.GetListContact(id));
         }
         public void GetAll()
         {

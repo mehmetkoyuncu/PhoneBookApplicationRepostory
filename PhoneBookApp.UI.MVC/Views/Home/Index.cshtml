@@ -1,6 +1,7 @@
 ﻿<div class="container">
     <div class="row">
         <div class="col-md-12">
+            <!-- Button trigger modal -->
            
         </div>
     </div>
@@ -9,6 +10,9 @@
             <img src="~/images/phone-book.png" class="w-100" />
         </div>
         <div class="col-md-7">
+            <button type="button" class="btn btn-success mb-3" data-toggle="modal" data-target="#addPersonModal">
+               Kişi Ekle
+            </button>
             <table id="tablo" class="table table-hover table-responsive">
                 <thead>
                     <tr>
@@ -28,17 +32,14 @@
 
 
 
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#addPersonModal">
-    İletişim Bilgileri
-</button>
+
 
 <!-- Modal -->
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="addPersonModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <h5 class="modal-title" id="exampleModalLabel">İletişim Bilgileri</h5>
                 <button type="button" class="close reloadContact" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>

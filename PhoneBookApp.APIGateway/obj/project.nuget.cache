@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "GE4RS+RQAaatkURU4adphg04RVkOGl/k7SZdWkDftUrw0Saa+qVa8oGPKq4IVnqDGUh5+7t63gYdyaPxnr/qgw==",
+  "dgSpecHash": "tDUgAjudsS0pMwBs/vyenDT0kE1tbkQOJhIHj9mcscvXRYQb/DUheERdAipHBFPbgTR+rD1g+3p1EAlvskBKtw==",
   "success": true,
   "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.APIGateway\\PhoneBookApp.APIGateway.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mkoyu\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\mkoyu\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.3\\microsoft.aspnetcore.jsonpatch.3.1.3.nupkg.sha512",
+    "C:\\Users\\mkoyu\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\3.1.3\\microsoft.aspnetcore.middlewareanalysis.3.1.3.nupkg.sha512",
+    "C:\\Users\\mkoyu\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.3\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.3.nupkg.sha512",
+    "C:\\Users\\mkoyu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mkoyu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\mkoyu\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.3\\microsoft.extensions.diagnosticadapter.3.1.3.nupkg.sha512",
+    "C:\\Users\\mkoyu\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\mkoyu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\mkoyu\\.nuget\\packages\\ocelot\\16.0.0\\ocelot.16.0.0.nupkg.sha512",
+    "C:\\Users\\mkoyu\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\mkoyu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
