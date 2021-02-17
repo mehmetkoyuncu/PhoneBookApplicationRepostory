@@ -30,13 +30,16 @@ namespace PhoneBookApp.PersonService.WebAPI
             services.AddControllers();
             services.AddScoped<IPersonServices, PersonServices>();
             services.AddScoped<IContactService, ContactService>();
+
+            services.AddMvc(options => options.EnableEndpointRouting = false).AddControllersAsServices();
+
             services.AddCors(options =>
             {
                 options.AddPolicy("CorsPolicy",
                     builder => builder
+                    .SetIsOriginAllowed((host) => true)
                     .AllowAnyMethod()
                     .AllowAnyHeader()
-                    .SetIsOriginAllowed((host) => true)
                     .AllowCredentials());
             });
         }
@@ -48,17 +51,22 @@ namespace PhoneBookApp.PersonService.WebAPI
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.UseCors("CorsPolicy");
+         
             app.UseHttpsRedirection();
 
+            
+
+            app.UseCors("CorsPolicy");
+
+            app.UseMvc();
+
             app.UseRouting();
-
-            app.UseAuthorization();
-
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
+
+          
         }
     }
 }
