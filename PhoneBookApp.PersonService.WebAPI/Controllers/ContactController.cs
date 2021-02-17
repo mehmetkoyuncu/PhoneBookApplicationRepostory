@@ -43,5 +43,12 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
             bool condition = _contactService.RemoveContact(Convert.ToInt32(contact.Id));
             return Ok(condition);
         }
+        [HttpPost]
+        public IActionResult GetContactReport(string location)
+        {
+            List<int> getcontactsItems = _contactService.GetContactReport(location);
+            return Ok(getcontactsItems);
+        }
+
     }
 }

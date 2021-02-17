@@ -14,5 +14,6 @@ namespace PhoneBookApp.PersonService.Business.Abstract
         ContactDTO  GetContact(int id);
         List<ContactDTO> GetAll();
         Contact GetContactJust(int id);
+        List<int> GetContactReport(string location);
     }
 }
