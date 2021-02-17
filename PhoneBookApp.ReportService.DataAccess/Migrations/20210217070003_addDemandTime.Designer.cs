@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using PhoneBookApp.ReportService.DataAccess.Context.EntityFramework;
@@ -9,9 +10,10 @@ using PhoneBookApp.ReportService.DataAccess.Context.EntityFramework;
 namespace PhoneBookApp.ReportService.DataAccess.Migrations
 {
     [DbContext(typeof(PhoneBookAppReportContextEF))]
-    partial class PhoneBookAppReportContextEFModelSnapshot : ModelSnapshot
+    [Migration("20210217070003_addDemandTime")]
+    partial class addDemandTime
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

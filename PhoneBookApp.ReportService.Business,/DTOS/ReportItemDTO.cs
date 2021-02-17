@@ -1,12 +1,11 @@
 ﻿using PhoneBookApp.ReportService.DataAccess.Consts;
-using PhoneBookApp.ReportService.DataAccess.Entities.BaseEntities;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PhoneBookApp.ReportService.DataAccess.Entities
+namespace PhoneBookApp.ReportService.Business_.DTOS
 {
-    public class ReportItem:IEntity
+    public class ReportItemDTO
     {
         public Guid Id { get; set; }
         public int PersonCount { get; set; }
