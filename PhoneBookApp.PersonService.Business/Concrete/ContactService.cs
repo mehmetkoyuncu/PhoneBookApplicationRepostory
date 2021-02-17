@@ -24,7 +24,9 @@ namespace PhoneBookApp.PersonService.Business.Concrete
                 Mail = contactDTO.Mail,
                 PhoneNum = contactDTO.PhoneNum
             };
+            _unitOfWork.Save();
             return _unitOfWork.ContactRepository.Add(contact);
+            
         }
 
         public ContactDTO GetContact(int id)
@@ -48,23 +50,36 @@ namespace PhoneBookApp.PersonService.Business.Concrete
                 Id = x.Id,
                 Mail = x.Mail,
                 PhoneNum = x.PhoneNum,
-                UserId = x.PersonId
+                UserId = x.PersonId,
+                PersonName=x.Person.Name
             }).ToList();
             return contactList;
         }
-        public Contact GetContact(Guid id)
+        public Contact GetContactJust(int id)
         {
-            Contact contact = _unitOfWork.ContactRepository.Get(x => x.PersonId == id).FirstOrDefault();
+            Contact contact = _unitOfWork.ContactRepository.Get(x => x.Id == id).FirstOrDefault();
             return contact;
         }
 
-        public bool RemoveContact(Guid id)
+        public bool RemoveContact(int id)
         {
-            Contact contact = GetContact(id);
+            Contact contact = GetContactJust(id);
             contact.IsDeleted = true;
             bool condition = _unitOfWork.ContactRepository.Remove(contact);
             _unitOfWork.Save();
             return condition;
+        }
+
+        public List<ContactDTO> GetAll()
+        {
+            List<ContactDTO> contactDTOList = _unitOfWork.ContactRepository.GetAll().Select(x=>new ContactDTO { 
+            Address=x.Address,
+            Id=x.Id,
+            Mail=x.Mail,
+            PhoneNum=x.PhoneNum,
+            UserId=x.PersonId
+            }).ToList();
+            return contactDTOList;
         }
     }
 }

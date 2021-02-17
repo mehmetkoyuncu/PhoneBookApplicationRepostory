@@ -29,6 +29,7 @@ namespace PhoneBookApp.PersonService.WebAPI
         {
             services.AddControllers();
             services.AddScoped<IPersonServices, PersonServices>();
+            services.AddScoped<IContactService, ContactService>();
             services.AddCors(options =>
             {
                 options.AddPolicy("CorsPolicy",

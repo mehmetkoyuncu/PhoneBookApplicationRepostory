@@ -15,5 +15,6 @@ namespace PhoneBookApp.PersonService.Business.DTOS
         public string Surname { get; set; }
         public string CompanyName { get; set; }
         public IEnumerable<ContactDTO> Contacts { get; set; }
+        public DateTime CreatedTime { get; set; }
     }
 }

@@ -38,6 +38,7 @@ namespace PhoneBookApp.PersonService.Business.Concrete
                 Name = x.Name,
                 Id = x.Id,
                 Surname = x.Surname,
+                CreatedTime=x.CreatedTime,
                 Contacts = x.Contacts.Where(y => y.PersonId == x.Id&&x.IsDeleted==false).Select(y => new ContactDTO
                 {
                     Address = y.Address,
@@ -45,7 +46,7 @@ namespace PhoneBookApp.PersonService.Business.Concrete
                     Mail = y.Mail,
                     PhoneNum = y.PhoneNum
                 }).ToList()
-            }).OrderByDescending(x => x.Name).ToList();
+            }).OrderByDescending(x => x.CreatedTime).ToList();
             return personList;
         }
 

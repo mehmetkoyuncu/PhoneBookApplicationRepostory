@@ -32,19 +32,18 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
         {
             return Json(_personService.GetPersonDTO(Guid.Parse("{480ab9a9-dafd-4c37-99cf-6c34f74af816}")));
         }
-        public IActionResult AddPerson()
+        public IActionResult AddPerson(PersonDTO personDTO)
         {
-            PersonDTO personDTO1 = new PersonDTO();
-            personDTO1.Id = Guid.NewGuid();
-            personDTO1.CompanyName = "Company 4 ";
-            personDTO1.Name = "Kara";
-            personDTO1.Surname = "Uğur ";
-            return Json(_personService.AddPerson(personDTO1));
+            bool control = _personService.AddPerson(personDTO);
+
+
+            return Json(control);
         }
-        public IActionResult RemovePerson()
+        [HttpPost]
+        public IActionResult RemovePerson(PersonDTO person)
         {
-            Guid id = Guid.Parse("{5df9ae2a-e923-47db-a5dd-1e1c8fc2d00b}");
-            return Json(_personService.RemovePerson(id));
+            Guid uuid = person.Id;
+            return Json(_personService.RemovePerson(uuid));
         }
 
     }

@@ -11,5 +11,7 @@ namespace PhoneBookApp.PersonService.Business.DTOS
         public string PhoneNum { get; set; }
         public string Mail { get; set; }
         public string Address { get; set; }
+        public string PersonName { get; set; }
+
     }
 }
