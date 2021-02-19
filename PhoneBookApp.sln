@@ -19,13 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBookApp.UI.MVC", "Phon
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIGateway", "APIGateway", "{2CE2E423-76DA-4F85-AB6D-074F093FB899}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookApp.APIGateway", "PhoneBookApp.APIGateway\PhoneBookApp.APIGateway.csproj", "{33998A64-9A10-462B-9228-E345F4228D38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBookApp.APIGateway", "PhoneBookApp.APIGateway\PhoneBookApp.APIGateway.csproj", "{33998A64-9A10-462B-9228-E345F4228D38}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReportService", "ReportService", "{6FE56462-ACC9-41D4-856F-F7C9718C5B5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookApp.ReportService.DataAccess", "PhoneBookApp.ReportService.DataAccess\PhoneBookApp.ReportService.DataAccess.csproj", "{F472C2A5-F843-4B9B-B8D7-9F4E38529E41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBookApp.ReportService.DataAccess", "PhoneBookApp.ReportService.DataAccess\PhoneBookApp.ReportService.DataAccess.csproj", "{F472C2A5-F843-4B9B-B8D7-9F4E38529E41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookApp.ReportService.Business", "PhoneBookApp.ReportService.Business,\PhoneBookApp.ReportService.Business.csproj", "{B01DF4F4-71C2-4837-B006-6E1FBC27D4C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBookApp.ReportService.Business", "PhoneBookApp.ReportService.Business,\PhoneBookApp.ReportService.Business.csproj", "{B01DF4F4-71C2-4837-B006-6E1FBC27D4C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EventBusService", "EventBusService", "{629CFB07-EC95-4632-B0D2-AF6D96BF6396}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

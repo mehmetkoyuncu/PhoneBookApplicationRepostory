@@ -1,7 +1,9 @@
 ﻿<div class="container">
     <div class="row">
         <div class="col-md-12">
-            <!-- Button trigger modal -->
+            <div id="locationCount"></div>
+            <div id="personCount"></div>
+            <div id="pName"></div>
            
         </div>
     </div>
@@ -9,11 +11,13 @@
         <div class="col-md-5" id="phoneImage">
             <img src="~/images/phone-book.png" class="w-100" />
         </div>
-        <div class="col-md-7">
-            <button type="button" class="btn btn-success mb-3" data-toggle="modal" data-target="#addPersonModal">
-               Kişi Ekle
-            </button>
-            <table id="tablo" class="table table-hover table-responsive">
+        <div class="col-md-7" id="tableDivision">
+            <div class="col-md-12 text-right" id="addPersonButtonDivision">
+                <button type="button" class="btn btn-success mb-3" data-toggle="modal" data-target="#addPersonModal">
+                    <i class="fas fa-user-plus mr-1"></i> Kişi Ekle
+                </button>
+            </div>
+            <table id="tablePerson" class="table table-hover table-responsive">
                 <thead>
                     <tr>
                         <th>İsim</th>
@@ -23,8 +27,6 @@
                         <th>Sil</th>
                     </tr>
                 </thead>
-                <tbody id="tBody">
-                </tbody>
             </table>
         </div>
     </div>
@@ -35,18 +37,16 @@
 
 
 <!-- Modal -->
-<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="addPersonModalLabel" aria-hidden="true">
+<div class="modal fade" id="ViewContactModal" tabindex="-1" role="dialog" aria-labelledby="ViewContactModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">İletişim Bilgileri</h5>
-                <button type="button" class="close reloadContact" data-dismiss="modal" aria-label="Close">
+            <div class="modal-header bg-primary text-light">
+                <h5 class="modal-title" id="exampleModalLabel"><i class="fas fa-address-card mr-2"></i>İletişim Bilgileri</h5>
+                <button type="button" class="close reloadContact text-light" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
-
-
                 <div class="table-responsive">
                     <table id="tableContact" class="table table-hover">
                         <thead>
@@ -92,12 +92,12 @@
 
 
 <!-- Modal -->
-<div class="modal fade" id="addPersonModal" tabindex="-1" role="dialog" aria-labelledby="addPersonModalLaber" aria-hidden="true">
-    <div class="modal-dialog" role="document">
+<div class="modal modal-center fade" id="addPersonModal" tabindex="-1" role="dialog" aria-labelledby="addPersonModalLaber" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Kişi Kaydet</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <div class="modal-header bg-success">
+                <h5 class="modal-title text-light"> <i class="fas fa-user-plus mr-2"></i>Kişi Ekle</h5>
+                <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>

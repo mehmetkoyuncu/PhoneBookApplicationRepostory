@@ -82,12 +82,13 @@ namespace PhoneBookApp.PersonService.Business.Concrete
             return contactDTOList;
         }
 
-        public List<int> GetContactReport(string location)
+        public ReportDTO GetContactReport(string location)
         {
-            List<int> reportItemList = new List<int>();
-            reportItemList.Add( _unitOfWork.ContactRepository.Get(x => x.Address == location).Select(x => x.PersonId).ToList().Distinct().Count());
-            reportItemList.Add( _unitOfWork.ContactRepository.Get(x => x.Address == location).Select(x => x.PhoneNum).ToList().Distinct().Count());
-            return reportItemList;
+            ReportDTO reportdto = new ReportDTO();
+            reportdto.Name = location;
+            reportdto.LocationCount= _unitOfWork.ContactRepository.Get(x => x.Address == location).Select(x => x.PersonId).ToList().Distinct().Count();
+            reportdto.PersonCount=_unitOfWork.ContactRepository.Get(x => x.Address == location).Select(x => x.PhoneNum).ToList().Distinct().Count();
+            return reportdto;
         }
     }
 }

@@ -29,6 +29,7 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
         {
             return Json(_personService.GetPersonDTO(Guid.Parse("{480ab9a9-dafd-4c37-99cf-6c34f74af816}")));
         }
+        [HttpPost]
         public IActionResult AddPerson(PersonDTO personDTO)
         {
             bool control = _personService.AddPerson(personDTO);
@@ -36,7 +37,7 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
 
             return Ok(control);
         }
-        [HttpPost]
+        [HttpDelete]
         public IActionResult RemovePerson(PersonDTO person)
         {
             Guid uuid = person.Id;

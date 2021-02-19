@@ -22,14 +22,15 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
         public IActionResult GetContactForUser(ContactDTO contactDTO)
         {
             Guid id = contactDTO.UserId; 
-            List<ContactDTO> contactList = _contactService.GetListContact(id);
             return Ok(_contactService.GetListContact(id));
         }
+        [HttpGet]
         public void GetAll()
         {
             List<ContactDTO> contactDTOs = _contactService.GetAll();
             
         }
+        [HttpPost]
         public IActionResult AddContact(ContactDTO contacts)
         {
             _contactService.AddContact(contacts);
@@ -37,17 +38,16 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
             bool control=_contactService.AddContact(contacts);
             return Ok(control);
         }
-        [HttpPost]
+        [HttpDelete]
         public IActionResult RemoveContact(ContactDTO contact)
         {
-            bool condition = _contactService.RemoveContact(Convert.ToInt32(contact.Id));
-            return Ok(condition);
+            return Ok(_contactService.RemoveContact(Convert.ToInt32(contact.Id)));
         }
         [HttpPost]
-        public IActionResult GetContactReport(string location)
+        public IActionResult GetRecordCounts(ContactDTO contactDTO)
         {
-            List<int> getcontactsItems = _contactService.GetContactReport(location);
-            return Ok(getcontactsItems);
+            ReportDTO reportDTO = _contactService.GetContactReport(contactDTO.Address);
+            return Ok(reportDTO);
         }
 
     }
