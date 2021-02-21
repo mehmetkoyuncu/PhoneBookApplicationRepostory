@@ -9,7 +9,7 @@ namespace PhoneBookApp.ReportService.DataAccess.Context.EntityFramework
 {
     public class PhoneBookAppReportContextEF:DbContext
     {
-        public DbSet<ReportItem> Users { get; set; }
+        public DbSet<LocationReport> Reports { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseNpgsql("Server=localhost;Port=5432;Database=PhoneBookAppReportDB;Integrated Security=true; User Id=postgres;Password=7973153.mK;");
@@ -17,7 +17,7 @@ namespace PhoneBookApp.ReportService.DataAccess.Context.EntityFramework
         Datas dummyData = new Datas();
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<ReportItem>().HasData(
+            modelBuilder.Entity<LocationReport>().HasData(
                 dummyData.reportItems
                 );
         }

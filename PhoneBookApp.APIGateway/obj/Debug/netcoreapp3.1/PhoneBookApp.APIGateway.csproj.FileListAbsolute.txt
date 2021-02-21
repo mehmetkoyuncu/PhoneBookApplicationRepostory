@@ -29,7 +29,6 @@ C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\bin\Debug\n
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
-C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\obj\Debug\netcoreapp3.1\PhoneBookApp.APIGateway.csprojAssemblyReference.cache
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\obj\Debug\netcoreapp3.1\PhoneBookApp.APIGateway.AssemblyInfoInputs.cache
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\obj\Debug\netcoreapp3.1\PhoneBookApp.APIGateway.AssemblyInfo.cs
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\obj\Debug\netcoreapp3.1\PhoneBookApp.APIGateway.csproj.CoreCompileInputs.cache
@@ -43,3 +42,4 @@ C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\obj\Debug\n
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\obj\Debug\netcoreapp3.1\PhoneBookApp.APIGateway.dll
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\obj\Debug\netcoreapp3.1\PhoneBookApp.APIGateway.pdb
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\obj\Debug\netcoreapp3.1\PhoneBookApp.APIGateway.genruntimeconfig.cache
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.APIGateway\obj\Debug\netcoreapp3.1\PhoneBookApp.APIGateway.csprojAssemblyReference.cache

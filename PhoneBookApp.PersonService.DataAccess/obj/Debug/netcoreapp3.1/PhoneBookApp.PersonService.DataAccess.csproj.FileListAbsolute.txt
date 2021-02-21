@@ -9,3 +9,4 @@ C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.PersonService.DataAcce
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.dll
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.pdb
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.genruntimeconfig.cache
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.csprojAssemblyReference.cache

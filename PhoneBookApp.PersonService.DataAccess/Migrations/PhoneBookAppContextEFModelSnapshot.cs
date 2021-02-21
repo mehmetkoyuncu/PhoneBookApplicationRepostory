@@ -79,18 +79,18 @@ namespace PhoneBookApp.PersonService.DataAccess.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("480ab9a9-dafd-4c37-99cf-6c34f74af816"),
+                            Id = new Guid("af5c2744-fe13-4b59-b79a-df9ad25e8d89"),
                             CompanyName = "Bilge Adam",
-                            CreatedTime = new DateTime(2021, 2, 15, 15, 38, 9, 667, DateTimeKind.Local).AddTicks(5308),
+                            CreatedTime = new DateTime(2021, 2, 21, 1, 25, 40, 700, DateTimeKind.Local).AddTicks(5431),
                             IsDeleted = false,
                             Name = "Mehmet",
                             Surname = "Koyuncu"
                         },
                         new
                         {
-                            Id = new Guid("c05736af-3109-4197-b412-34a027d43cc6"),
+                            Id = new Guid("b2dcad91-97b5-4cce-a199-3c2d2bec1e55"),
                             CompanyName = "Setur",
-                            CreatedTime = new DateTime(2021, 2, 15, 15, 38, 9, 692, DateTimeKind.Local).AddTicks(9661),
+                            CreatedTime = new DateTime(2021, 2, 21, 1, 25, 40, 703, DateTimeKind.Local).AddTicks(2458),
                             IsDeleted = true,
                             Name = "Name 1",
                             Surname = "Name 2"

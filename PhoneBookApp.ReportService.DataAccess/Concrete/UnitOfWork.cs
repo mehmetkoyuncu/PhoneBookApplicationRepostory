@@ -13,9 +13,9 @@ namespace PhoneBookApp.ReportService.DataAccess.Concrete
         public UnitOfWork()
         {
             _context = new PhoneBookAppReportContextEF();
-            ReportRepository = new Repository<ReportItem, PhoneBookAppReportContextEF>(_context);
+            ReportRepository = new Repository<LocationReport, PhoneBookAppReportContextEF>(_context);
         }
-        public IRepository<ReportItem, PhoneBookAppReportContextEF> ReportRepository { get; }
+        public IRepository<LocationReport, PhoneBookAppReportContextEF> ReportRepository { get; }
         public void Save()
         {
             _context.SaveChanges();

@@ -34,7 +34,6 @@ namespace PhoneBookApp.PersonService.WebAPI.Controllers
         {
             bool control = _personService.AddPerson(personDTO);
 
-
             return Ok(control);
         }
         [HttpDelete]

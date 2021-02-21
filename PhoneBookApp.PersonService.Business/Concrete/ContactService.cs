@@ -73,7 +73,7 @@ namespace PhoneBookApp.PersonService.Business.Concrete
         public List<ContactDTO> GetAll()
         {
             List<ContactDTO> contactDTOList = _unitOfWork.ContactRepository.GetAll().Select(x=>new ContactDTO { 
-            Address=x.Address,
+            Address=x.Address.ToUpper(),
             Id=x.Id,
             Mail=x.Mail,
             PhoneNum=x.PhoneNum,

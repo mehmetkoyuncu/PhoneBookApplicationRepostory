@@ -8,43 +8,56 @@ namespace PhoneBookApp.ReportService.DataAccess.Context.DummyData
 {
    public class Datas
     {
-        public List<ReportItem> reportItems { get; set; }
+        public List<LocationReport> reportItems { get; set; }
 
         public Datas()
         {
-            reportItems = new List<ReportItem>()
+            reportItems = new List<LocationReport>()
             {
-                new ReportItem
+                new LocationReport
                 {
                     Id=Guid.NewGuid(),
                     Location="Istanbul",
                     PersonCount=5,
                     PhoneCount=10,
-                    Status=Status.Done
+                    Status=StatusEnum.Done,
+                    CreaatedTime=DateTime.Now,
+                    DemandTime=DateTime.Now,
+                    IsDeleted=false
+                    
                 },
-                 new ReportItem
+                 new LocationReport
                 {
                     Id=Guid.NewGuid(),
                     Location="Rize",
                     PersonCount=3,
                     PhoneCount=20,
-                    Status=Status.Ready
+                    Status=StatusEnum.Ready,
+                    CreaatedTime=DateTime.Now,
+                    DemandTime=DateTime.Now,
+                    IsDeleted=true
                 },
-                  new ReportItem
+                  new LocationReport
                 {
                     Id=Guid.NewGuid(),
                     Location="Antalya",
                     PersonCount=25,
                     PhoneCount=50,
-                    Status=Status.Ready
+                    Status=StatusEnum.Ready,
+                    CreaatedTime=DateTime.Now,
+                    DemandTime=DateTime.Now,
+                    IsDeleted=true
                 },
-                   new ReportItem
+                   new LocationReport
                 {
                     Id=Guid.NewGuid(),
                     Location="Eskişehir",
                     PersonCount=35,
                     PhoneCount=150,
-                    Status=Status.Done
+                    Status=StatusEnum.Done,
+                    CreaatedTime=DateTime.Now,
+                    DemandTime=DateTime.Now,
+                    IsDeleted=false
                 },
             };
         }

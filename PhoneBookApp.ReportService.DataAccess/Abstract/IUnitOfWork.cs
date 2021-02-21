@@ -8,7 +8,7 @@ namespace PhoneBookApp.ReportService.DataAccess.Abstract
 {
     public interface IUnitOfWork
     {
-        IRepository<ReportItem, PhoneBookAppReportContextEF> ReportRepository { get; }
+        IRepository<LocationReport, PhoneBookAppReportContextEF> ReportRepository { get; }
         void Save();
     }
 }

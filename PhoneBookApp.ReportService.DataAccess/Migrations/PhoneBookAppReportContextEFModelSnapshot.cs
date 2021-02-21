@@ -19,14 +19,20 @@ namespace PhoneBookApp.ReportService.DataAccess.Migrations
                 .HasAnnotation("ProductVersion", "3.1.11")
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
-            modelBuilder.Entity("PhoneBookApp.ReportService.DataAccess.Entities.ReportItem", b =>
+            modelBuilder.Entity("PhoneBookApp.ReportService.DataAccess.Entities.LocationReport", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uuid");
 
+                    b.Property<DateTime>("CreaatedTime")
+                        .HasColumnType("timestamp without time zone");
+
                     b.Property<DateTime>("DemandTime")
                         .HasColumnType("timestamp without time zone");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("boolean");
 
                     b.Property<string>("Location")
                         .HasColumnType("text");
@@ -42,13 +48,15 @@ namespace PhoneBookApp.ReportService.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Users");
+                    b.ToTable("Reports");
 
                     b.HasData(
                         new
                         {
-                            Id = new Guid("36cca656-ec46-4a8e-a872-63b01379bbb6"),
-                            DemandTime = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Id = new Guid("a8d1c8d1-560a-415f-b41f-ba4385b57dad"),
+                            CreaatedTime = new DateTime(2021, 2, 21, 3, 9, 48, 299, DateTimeKind.Local).AddTicks(7713),
+                            DemandTime = new DateTime(2021, 2, 21, 3, 9, 48, 301, DateTimeKind.Local).AddTicks(6463),
+                            IsDeleted = false,
                             Location = "Istanbul",
                             PersonCount = 5,
                             PhoneCount = 10,
@@ -56,8 +64,10 @@ namespace PhoneBookApp.ReportService.DataAccess.Migrations
                         },
                         new
                         {
-                            Id = new Guid("e02a3bae-2a4c-4a44-bcf1-f734e037a7ca"),
-                            DemandTime = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Id = new Guid("ca0a304b-d0e0-4875-b9cc-501bb36f6063"),
+                            CreaatedTime = new DateTime(2021, 2, 21, 3, 9, 48, 301, DateTimeKind.Local).AddTicks(8431),
+                            DemandTime = new DateTime(2021, 2, 21, 3, 9, 48, 301, DateTimeKind.Local).AddTicks(8452),
+                            IsDeleted = true,
                             Location = "Rize",
                             PersonCount = 3,
                             PhoneCount = 20,
@@ -65,8 +75,10 @@ namespace PhoneBookApp.ReportService.DataAccess.Migrations
                         },
                         new
                         {
-                            Id = new Guid("eca0f21d-4cba-4720-9545-26656fa1fe05"),
-                            DemandTime = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Id = new Guid("d6d14f22-a678-4c34-bb31-ad4985a64de5"),
+                            CreaatedTime = new DateTime(2021, 2, 21, 3, 9, 48, 301, DateTimeKind.Local).AddTicks(8497),
+                            DemandTime = new DateTime(2021, 2, 21, 3, 9, 48, 301, DateTimeKind.Local).AddTicks(8501),
+                            IsDeleted = true,
                             Location = "Antalya",
                             PersonCount = 25,
                             PhoneCount = 50,
@@ -74,8 +86,10 @@ namespace PhoneBookApp.ReportService.DataAccess.Migrations
                         },
                         new
                         {
-                            Id = new Guid("99b60188-4903-49e6-8748-42b1bbc921b5"),
-                            DemandTime = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Id = new Guid("f55921b7-c4c3-4a15-ac34-9666cb2446dc"),
+                            CreaatedTime = new DateTime(2021, 2, 21, 3, 9, 48, 301, DateTimeKind.Local).AddTicks(8508),
+                            DemandTime = new DateTime(2021, 2, 21, 3, 9, 48, 301, DateTimeKind.Local).AddTicks(8509),
+                            IsDeleted = false,
                             Location = "Eskişehir",
                             PersonCount = 35,
                             PhoneCount = 150,
