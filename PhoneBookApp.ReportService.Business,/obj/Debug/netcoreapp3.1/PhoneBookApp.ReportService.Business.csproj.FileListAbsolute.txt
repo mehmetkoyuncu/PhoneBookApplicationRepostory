@@ -10,3 +10,15 @@ C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.ReportService.Business
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.ReportService.Business,\obj\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.csproj.CopyComplete
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.ReportService.Business,\obj\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.dll
 C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneBookApp.ReportService.Business,\obj\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.pdb
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\bin\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.deps.json
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\bin\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.dll
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\bin\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.pdb
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\bin\Debug\netcoreapp3.1\PhoneBookApp.ReportService.DataAccess.dll
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\bin\Debug\netcoreapp3.1\PhoneBookApp.ReportService.DataAccess.pdb
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\obj\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.csprojAssemblyReference.cache
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\obj\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.AssemblyInfoInputs.cache
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\obj\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.AssemblyInfo.cs
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\obj\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.csproj.CoreCompileInputs.cache
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\obj\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.csproj.CopyComplete
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\obj\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.dll
+C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.ReportService.Business,\obj\Debug\netcoreapp3.1\PhoneBookApp.ReportService.Business.pdb

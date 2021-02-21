@@ -930,11 +930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj",
+      "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj",
       "projectName": "PhoneBookApp.PersonService.Business",
-      "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj",
+      "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj",
       "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\obj\\",
+      "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -951,8 +951,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj"
+            "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj"
             }
           }
         }

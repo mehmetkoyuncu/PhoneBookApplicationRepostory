@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "emSGtHqb/qqpVvAjE1vcLhQj4U77gVqyPDaccGQ5wTnBhUjUcVO7Pk1laP1Z5LuaeV4o6BHUKtxN2ESaav/Srg==",
+  "dgSpecHash": "nSEBHPAUw/tEzivY9obZTaWIKZvYKszB7+nEavtoCo0Y7JbuFP+l8ofwvwd4MuewzFBKw5azQqemh+zf1JjANQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj",
+  "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mkoyu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mkoyu\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

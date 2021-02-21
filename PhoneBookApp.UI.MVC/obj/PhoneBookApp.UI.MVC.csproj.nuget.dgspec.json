@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.UI.MVC\\PhoneBookApp.UI.MVC.csproj": {}
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.UI.MVC\\PhoneBookApp.UI.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.UI.MVC\\PhoneBookApp.UI.MVC.csproj": {
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.UI.MVC\\PhoneBookApp.UI.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.UI.MVC\\PhoneBookApp.UI.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.UI.MVC\\PhoneBookApp.UI.MVC.csproj",
         "projectName": "PhoneBookApp.UI.MVC",
-        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.UI.MVC\\PhoneBookApp.UI.MVC.csproj",
+        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.UI.MVC\\PhoneBookApp.UI.MVC.csproj",
         "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.UI.MVC\\obj\\",
+        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.UI.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",

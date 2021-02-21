@@ -847,11 +847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj",
       "projectName": "PhoneBookApp.PersonService.WebAPI",
-      "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj",
+      "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj",
       "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -868,8 +868,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj": {
-              "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj"
+            "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj": {
+              "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj"
             }
           }
         }

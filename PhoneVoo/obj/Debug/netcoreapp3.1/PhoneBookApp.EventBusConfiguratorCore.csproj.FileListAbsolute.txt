@@ -1,4 +1,0 @@
-C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneVoo\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfiguratorCore.csprojAssemblyReference.cache
-C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneVoo\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfiguratorCore.AssemblyInfoInputs.cache
-C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneVoo\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfiguratorCore.AssemblyInfo.cs
-C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneVoo\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfiguratorCore.csproj.CoreCompileInputs.cache

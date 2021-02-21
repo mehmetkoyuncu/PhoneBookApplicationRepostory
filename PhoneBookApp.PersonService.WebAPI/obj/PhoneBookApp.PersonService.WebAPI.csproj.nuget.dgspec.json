@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj": {}
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj": {
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj",
+        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj",
         "projectName": "PhoneBookApp.PersonService.Business",
-        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj",
+        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj",
         "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\obj\\",
+        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj"
+              "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj": {
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj",
         "projectName": "PhoneBookApp.PersonService.DataAccess",
-        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj",
+        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj",
         "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj": {
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj",
         "projectName": "PhoneBookApp.PersonService.WebAPI",
-        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj",
+        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.WebAPI\\PhoneBookApp.PersonService.WebAPI.csproj",
         "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,8 +168,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj": {
-                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj"
+              "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj": {
+                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj"
               }
             }
           }

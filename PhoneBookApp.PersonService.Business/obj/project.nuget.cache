@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nf7t0AjbXO59DZsmHFghtjlKrYVjpv+m6oX6IuAzlpzclWXn2htmwICafZgJaltsvLH5NicX2vDtsxHdZ5YE6Q==",
+  "dgSpecHash": "n7wwX/V49sKGBACAcz8ygmqDZHfyYryI9x+szLpkEH7kSWA210FL44gHOBKYaKd6Jjw2JL6pywTPzr/Jt8aHCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj",
+  "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.Business\\PhoneBookApp.PersonService.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mkoyu\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mkoyu\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

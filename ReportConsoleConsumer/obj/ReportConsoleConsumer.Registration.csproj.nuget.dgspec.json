@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\ReportConsoleConsumer\\ReportConsoleConsumer.Registration.csproj": {}
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\ReportConsoleConsumer\\ReportConsoleConsumer.Registration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj": {
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj",
+        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj",
         "projectName": "PhoneBookApp.EventBusConfigurator",
-        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj",
+        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj",
         "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\obj\\",
+        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj"
+              "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj": {
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj",
+        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj",
         "projectName": "PhoneBookApp.ReportService.Business",
-        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj",
+        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj",
         "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.Business,\\obj\\",
+        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj"
+              "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj"
               }
             }
           }
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj",
         "projectName": "PhoneBookApp.ReportService.DataAccess",
-        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj",
+        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj",
         "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -196,14 +196,14 @@
         }
       }
     },
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj": {
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj",
         "projectName": "PhoneBookApp.ReportService.WebAPI",
-        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj",
+        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj",
         "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -220,11 +220,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj": {
-                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj"
+              "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj": {
+                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj"
               },
-              "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj": {
-                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj"
+              "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj": {
+                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj"
               }
             }
           }
@@ -270,14 +270,14 @@
         }
       }
     },
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\ReportConsoleConsumer\\ReportConsoleConsumer.Registration.csproj": {
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\ReportConsoleConsumer\\ReportConsoleConsumer.Registration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\ReportConsoleConsumer\\ReportConsoleConsumer.Registration.csproj",
+        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\ReportConsoleConsumer\\ReportConsoleConsumer.Registration.csproj",
         "projectName": "ReportConsoleConsumer.Registration",
-        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\ReportConsoleConsumer\\ReportConsoleConsumer.Registration.csproj",
+        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\ReportConsoleConsumer\\ReportConsoleConsumer.Registration.csproj",
         "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\ReportConsoleConsumer\\obj\\",
+        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\ReportConsoleConsumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -294,11 +294,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj": {
-                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj"
+              "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj": {
+                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj"
               },
-              "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj": {
-                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj"
+              "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj": {
+                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8S/fgYN2QkV0mHs4ZcuUauhSq7OWanzan9C2mwgVysjg0/Ktw4ZBjwqaFlWNS5If6hCAMbLU8vZvT+ApE8tO8w==",
+  "dgSpecHash": "gIdV0WEvgU+5/ZYAqQht0L7XURejIzGTLhbj0UgcYjbmvxAUiLeMKirCIQnfy9oVNdeLwSr2mu3DOI2oy8raJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj",
+  "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mkoyu\\.nuget\\packages\\automatonymous\\5.1.1\\automatonymous.5.1.1.nupkg.sha512",
     "C:\\Users\\mkoyu\\.nuget\\packages\\greenpipes\\4.0.0\\greenpipes.4.0.0.nupkg.sha512",

@@ -5678,11 +5678,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj",
+      "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj",
       "projectName": "PhoneBookApp.EventBusConfigurator",
-      "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj",
+      "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\PhoneBookApp.EventBusConfigurator.csproj",
       "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.EventBusConfigurator\\obj\\",
+      "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.EventBusConfigurator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5699,8 +5699,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj"
+            "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj"
             }
           }
         }

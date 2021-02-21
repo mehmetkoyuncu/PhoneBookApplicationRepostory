@@ -911,11 +911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj",
       "projectName": "PhoneBookApp.PersonService.DataAccess",
-      "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj",
+      "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.DataAccess\\PhoneBookApp.PersonService.DataAccess.csproj",
       "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\PhoneBookApp\\PhoneBookApp.PersonService.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.PersonService.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
