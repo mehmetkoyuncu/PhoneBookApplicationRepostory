@@ -22,3 +22,15 @@ C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.
 C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.dll
 C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.pdb
 C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.genruntimeconfig.cache
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\bin\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.deps.json
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\bin\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.runtimeconfig.json
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\bin\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.runtimeconfig.dev.json
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\bin\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.dll
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\bin\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.pdb
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.csprojAssemblyReference.cache
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.AssemblyInfo.cs
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.dll
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.pdb
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.PersonService.DataAccess\obj\Debug\netcoreapp3.1\PhoneBookApp.PersonService.DataAccess.genruntimeconfig.cache

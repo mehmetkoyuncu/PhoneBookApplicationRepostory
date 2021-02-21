@@ -36,7 +36,7 @@ namespace PhoneBookApp.ReportService.WebAPI.Controllers
             Uri sendToUri = new Uri($"{RabbitMQConstants.RabbitMqUri}/{RabbitMQConstants.ConsumerQueue}");
             var endPoint = await bus.GetSendEndpoint(sendToUri);
             await endPoint.Send<ILocationReportItem>(reportItem);
-            return Ok("Your report request has been received ");
+            return Ok();
         }
         [HttpGet]
         public IActionResult GetAll()

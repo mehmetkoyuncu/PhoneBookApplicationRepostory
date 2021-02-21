@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1KuzzBKwuYvFxqUKKa4bV091ALChX6dwzprAPdeDfrLhk1el5XND75OLoOx532g5yhheP+fE0eHkmtlEvlJDbQ==",
+  "dgSpecHash": "75IXeP9KCqxKRDSdatMKfbvBIRJei069sfKQc4eccka0q/ss0v37nX6ySEg8AjES10umYikWQLBvN8a+uIXWnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\ReportConsoleConsumer\\ReportConsoleConsumer.Registration.csproj",
+  "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\ReportConsoleConsumer\\ReportConsoleConsumer.Registration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mkoyu\\.nuget\\packages\\automatonymous\\5.1.1\\automatonymous.5.1.1.nupkg.sha512",
     "C:\\Users\\mkoyu\\.nuget\\packages\\greenpipes\\4.0.0\\greenpipes.4.0.0.nupkg.sha512",

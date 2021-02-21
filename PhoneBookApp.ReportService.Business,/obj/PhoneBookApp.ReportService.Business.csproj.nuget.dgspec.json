@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj": {}
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj": {
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj",
+        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj",
         "projectName": "PhoneBookApp.ReportService.Business",
-        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj",
+        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\PhoneBookApp.ReportService.Business.csproj",
         "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\obj\\",
+        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.Business,\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj"
+              "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
+    "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj",
         "projectName": "PhoneBookApp.ReportService.DataAccess",
-        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj",
+        "projectPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\PhoneBookApp.ReportService.DataAccess.csproj",
         "packagesPath": "C:\\Users\\mkoyu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkoyu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -22,3 +22,15 @@ C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.
 C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.csproj.CopyComplete
 C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.dll
 C:\Users\mkoyu\Desktop\Projects\Test\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.pdb
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\bin\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.deps.json
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\bin\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.dll
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\bin\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.pdb
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\bin\Debug\netcoreapp3.1\PhoneBookApp.ReportService.DataAccess.dll
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\bin\Debug\netcoreapp3.1\PhoneBookApp.ReportService.DataAccess.pdb
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.csprojAssemblyReference.cache
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.AssemblyInfoInputs.cache
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.AssemblyInfo.cs
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.csproj.CopyComplete
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.dll
+C:\Users\mkoyu\Desktop\Projects\deneme\PhoneBookApplicationRepostory\PhoneBookApp.EventBusConfigurator\obj\Debug\netcoreapp3.1\PhoneBookApp.EventBusConfigurator.pdb

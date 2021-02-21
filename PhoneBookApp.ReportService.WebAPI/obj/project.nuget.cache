@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5sbM4rYmlWRFSCHayMj0TPWNqdKRgmnJyIfEaFnDM+JUH4tVsLWEWqkFBN+LXUF3qG0JeLVvjYgx66oLbc/Kpw==",
+  "dgSpecHash": "hML6+1iIwqjoQE8LM+EpOsHE8M7JrUcM7elb7eJ4CeMvnIB47Rly+suwKUz0kU/YsS6gsuysA6TxpmNgNYGguQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\Test\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\mkoyu\\Desktop\\Projects\\deneme\\PhoneBookApplicationRepostory\\PhoneBookApp.ReportService.WebAPI\\PhoneBookApp.ReportService.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mkoyu\\.nuget\\packages\\automatonymous\\5.1.1\\automatonymous.5.1.1.nupkg.sha512",
     "C:\\Users\\mkoyu\\.nuget\\packages\\greenpipes\\4.0.0\\greenpipes.4.0.0.nupkg.sha512",
