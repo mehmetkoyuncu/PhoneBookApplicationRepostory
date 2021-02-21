@@ -1,0 +1,12 @@
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\bin\Debug\netcoreapp3.1\PhoneDirectoryApp.MessageContracts.deps.json
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\bin\Debug\netcoreapp3.1\PhoneDirectoryApp.MessageContracts.dll
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\bin\Debug\netcoreapp3.1\PhoneDirectoryApp.MessageContracts.pdb
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\bin\Debug\netcoreapp3.1\PhoneBookApp.ReportService.DataAccess.dll
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\bin\Debug\netcoreapp3.1\PhoneBookApp.ReportService.DataAccess.pdb
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\obj\Debug\netcoreapp3.1\PhoneDirectoryApp.MessageContracts.csprojAssemblyReference.cache
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\obj\Debug\netcoreapp3.1\PhoneDirectoryApp.MessageContracts.AssemblyInfoInputs.cache
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\obj\Debug\netcoreapp3.1\PhoneDirectoryApp.MessageContracts.AssemblyInfo.cs
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\obj\Debug\netcoreapp3.1\PhoneDirectoryApp.MessageContracts.csproj.CoreCompileInputs.cache
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\obj\Debug\netcoreapp3.1\PhoneDirectoryApp.MessageContracts.csproj.CopyComplete
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\obj\Debug\netcoreapp3.1\PhoneDirectoryApp.MessageContracts.dll
+C:\Users\mkoyu\Desktop\Projects\PhoneBookApp\PhoneDirectoryApp.MessageContracts\obj\Debug\netcoreapp3.1\PhoneDirectoryApp.MessageContracts.pdb
