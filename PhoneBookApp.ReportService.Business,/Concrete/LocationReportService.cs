@@ -42,8 +42,7 @@ namespace PhoneBookApp.ReportService.Business_.Concrete
                 PersonCount = x.PersonCount,
                 PhoneCount = x.PhoneCount,
                 Status = x.Status,
-                CreaatedTime=DateTime.Now
-                
+                CreatedString=x.CreaatedTime.ToLongDateString()+"-"+ x.CreaatedTime.ToLongTimeString()
             }).ToList();
             return reports;
         }
@@ -69,8 +68,9 @@ namespace PhoneBookApp.ReportService.Business_.Concrete
         public List<LocationReportItemDTO> GetAll()
         {
             return _unitOfWork.ReportRepository.Get(x=>x.IsDeleted==false).Select(x=>new LocationReportItemDTO { 
-            CreaatedTime=x.CreaatedTime,
-            DemandTime=x.DemandTime,
+                CreaatedTime=x.CreaatedTime,
+            CreatedString= x.CreaatedTime.ToLongDateString() + "-" + x.CreaatedTime.ToLongTimeString(),
+            DemandTime =x.DemandTime,
             Id=x.Id,
             Location=x.Location,
             PersonCount=x.PersonCount,

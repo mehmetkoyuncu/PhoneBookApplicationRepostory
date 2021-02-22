@@ -14,5 +14,6 @@ namespace PhoneBookApp.ReportService.Business_.DTOS
         public StatusEnum Status { get; set; }
         public DateTime CreaatedTime { get; set; }
         public DateTime DemandTime { get; set; }
+        public string CreatedString { get; set; }
     }
 }
